@@ -1,0 +1,682 @@
+1,202,"sagen, du möchtest zu Nicodemus gebracht werden"
+1,33,"sagen, du wollest Diebesgut verkaufen"
+1,49,"angreifen"
+2,377,"Eisengitter entfernen"
+2,174,"zum Einstiegsschacht zurückkehren"
+3,37,"auf Handel einlassen"
+3,398,"weitergehen"
+4,339,"sagen, dass du ein Reisender bist, der sich verirrt hat"
+4,35,"angreifen"
+5,371,
+6,333,"Haus verlassen"
+6,88,"ins Nebenzimmer gehen"
+7,232,"die andere Tür öffnen*"
+7,78,"Schiff verlassen und Suche fortsetzen"
+8,334,
+9,"bad",
+10,212,"kurzer Kampf"
+10,130,"langer Kampf"
+11,358,
+12,176,"angreifen"
+12,383,"hinausschleichen"
+13,273,"Skorpion aufheben*"
+13,80,"Stufen hinaufsteigen"
+13,334,"Haus verlassen"
+14,237,"Feuer-Ring dabei"
+14,191,"kein Feuer-Ring dabei"
+15,75,"Glück"
+15,298,"kein Glück"
+16,333,
+17,331,"mit Mann reden"
+17,161,"Weg fortsetzen"
+18,102,"Messer trifft"
+18,225,"Messer trifft nicht"
+19,340,"nochmal versuchen, das Schloss zu öffnen"
+19,60,"Raum verlassen und nach oben gehen"
+20,84,
+21,288,"Tür schließen und über Nacht bleiben"
+21,77,"Turm auskundschaften"
+22,198,
+23,146,
+24,336,"Laden betreten"
+24,196,"Weg fortsetzen"
+25,169,"mit dem Schmied unterhalten"
+25,323,"den Schmied angreifen"
+25,115,"Weg fortsetzen"
+26,296,
+27,223,"auf das Spiel einlassen"
+27,165,"Raum verlassen und Weg fortsetzen"
+28,265,"Weg durch Tunnel fortsetzen"
+28,104,"zum Einstiegsloch zurückkehren"
+29,143,"krank stellen"
+29,230,"Zelle genauer untersuchen"
+30,76,
+31,329,"Stufen hinuntersteigen"
+31,364,"mit Mann reden"
+32,249,
+33,381,"behaupten, es seien verfluchte Kelche"
+33,291,"versuchen, am Torhüter vorbeizulaufen"
+33,49,"angreifen"
+34,171,
+35,189,"den silbernen Pfeil auf ihn schießen"
+35,305,"ihm den Spiegel entgegenhalten*"
+35,382,"ihm den Eis-Ring entgegenschleudern*"
+36,196,
+37,398,
+38,296,
+39,32,"versuchen, die Eingangstür zu erreichen"
+39,249,"Schlangenkönigin angreifen"
+40,168,"fragen, ob du mitspielen darfst"
+40,91,"Weg fortsetzen"
+41,74,
+42,100,
+43,175,"Kelch A hochheben*"
+43,209,"Kelch B hochheben*"
+43,107,"ins Nebenzimmer gehen"
+43,60,"Treppe hinaufsteigen"
+44,18,"Wurfmesser dabei"
+44,225,"kein Wurfmesser dabei"
+45,376,"Helm aufsetzen"
+45,161,"Weg fortsetzen"
+46,115,
+47,313,"Schwert trifft"
+47,81,"Schwert trifft nicht"
+48,321,"Leiter hinunterklettern"
+48,205,"Weg fortsetzen"
+49,10,"Glück"
+49,311,"kein Glück"
+50,271,"die linke Tür öffnen"
+50,232,"die rechte Tür öffnen"
+51,325,"Einladung annehmen"
+51,348,"Weg fortsetzen"
+52,200,
+53,328,"silbernen Gegenstand dabei"
+53,39,"keinen silbernen Gegenstand dabei"
+54,74,
+55,180,
+56,"bad",
+57,360,
+58,171,
+59,"bad",
+60,349,"Schwert ziehen"
+60,192,"aus dem Fenster springen"
+61,172,"Strauß Blumen dabei"
+61,350,"keinen Strauß Blumen dabei"
+62,136,"mit Wirt reden"
+62,173,"an Tisch mit Zwergen setzen"
+62,22,"an Tisch mit Kobolden setzen"
+62,190,"an Tisch mit drei Männern setzen"
+62,296,"Taverne verlassen"
+63,280,
+64,353,"Kette ist kurz genug"
+64,309,"Kette ist zu lang"
+65,319,"die weiße Tür öffnen"
+65,96,"die schwarze Tür öffnen"
+65,197,"die Treppe weiter hinaufsteigen"
+66,300,
+67,195,"einen Namen nennen"
+67,79,"keinen Namen nennen"
+68,380,"Suppe hinunterschlucken"
+68,262,"Suppe ausspucken"
+69,355,"du kannst dich befreien"
+69,151,"du kannst dich nicht befreien"
+70,"bad",
+71,324,"Kästchen mit Schwert aufbrechen"
+71,282,"Haus verlassen"
+72,208,
+73,110,"beide Trolle besiegt"
+73,239,"nach einem Troll fliehen"
+74,95,"Richtung Westen gehen"
+74,116,"Richtung Norden gehen"
+74,17,"Richtung Osten gehen"
+75,31,
+76,25,"in Scheune hineingehen"
+76,115,"Weg fortsetzen"
+77,292,"Tür öffnen"
+77,310,"in dritten Stock hinaufsteigen"
+78,256,"nach Norden gehen"
+78,216,"nach Osten gehen"
+79,295,
+80,392,"Skorpionbrosche dabei"
+80,215,"keine Skorpionbrosche dabei"
+81,304,"Glück"
+81,243,"kein Glück"
+82,104,
+83,322,"Laden genauer untersuchen"
+83,93,"Weg fortsetzen"
+84,50,"Stufen hinuntersteigen"
+84,78,"Schiff verlassen und Weg fortsetzen"
+85,100,
+86,45,"Kugel zerschmettern"
+86,194,"Kugel in Rucksack stecken"
+86,161,"Weg fortsetzen"
+87,120,"Wachposten angreifen"
+87,50,"Treppe hinunterschleichen"
+88,295,"Schlangenkönigin besiegt"
+88,333,"im Kampf fliehen"
+89,282,
+90,199,"behaupten, du habest den Stäfling wieder eingefangen"
+90,187,"versuchen, die Wachen zu bestechen"
+91,332,"Bettler ein Goldstück geben"
+91,124,"vorbeigehen"
+92,174,
+93,62,"in die Taverne gehen"
+93,296,"Weg fortsetzen"
+94,234,
+95,224,"Geschäft betreten"
+95,300,"Weg fortsetzen"
+96,257,"zum Kästchen gehen"
+96,319,"Tür schließen und die weiße Tür öffnen*"
+96,197,"Tür schließen und die Wendeltreppe hinaufsteigen"
+97,353,
+98,363,
+99,285,
+100,127,"nach rechts abbiegen"
+100,246,"weiter nach Osten gehen"
+101,5,"angreifen"
+101,93,"nicht angreifen und Weg fortsetzen"
+102,372,
+103,148,
+104,205,"auf die Straße klettern und Weg nach Osten fortsetzen"
+104,118,"Abwasserkanal Richtung Süden folgen*"
+105,64,"auf Tür zugehen"
+105,304,"Weg fortsetzen"
+106,163,"Sarkophag untersuchen"
+106,231,"Raum verlassen"
+107,128,"Schloss aufbrechen"
+107,60,"Raum verlassen und Treppe hinaufsteigen"
+108,201,"Tätowierung und alle Gegenstände dabei"
+108,299,"es fehlt etwas"
+109,151,
+110,239,
+111,232,"die andere Tür öffnen*"
+111,78,"Schiff verlassen und Suche fortsetzen"
+112,154,"Gebäude betreten"
+112,334,"Weg fortsetzen"
+113,141,"Spielzeug geben"
+113,375,"Weg fortsetzen"
+114,196,
+115,90,"Kette mit Schwert durchschlagen"
+115,274,"Mann an die Stadtwachen ausliefern"
+116,250,"in den Laden hineingehen"
+116,93,"Weg fortsetzen"
+117,188,"unterstellen, bis der Regen aufhört"
+117,31,"Weg fortsetzen"
+118,2,"Insektenreif dabei"
+118,166,"Insektenreif nicht dabei"
+119,233,"von Wasser trinken"
+119,247,"Weg fortsetzen"
+120,84,"Glück"
+120,152,"kein Glück"
+121,282,"Haus verlassen und Weg fortsetzen"
+121,140,"Menschenfresser angreifen"
+122,277,"wegrennen und Männer einsperren"
+122,361,"Männer angreifen"
+123,300,
+124,326,"Richtung Süden abbiegen"
+124,180,"Weg fortsetzen"
+125,21,
+126,112,
+127,177,"helfen"
+127,348,"nicht helfen und Weg fortsetzen"
+128,340,"zweimal Glück"
+128,149,"einmal Pech"
+128,19,"zweimal Pech"
+129,"bad",
+130,74,
+131,67,"behaupten, du würdest Blumen abliefern"
+131,6,"behaupten, du seiest ein Lumpensammler"
+131,179,"behaupten, du wollest die Steuern eintreiben"
+132,334,
+133,182,"in die Gasse einbiegen"
+133,160,"dem Jungen Obst abkaufen"
+134,396,
+135,229,"trotzdem angreifen"
+135,100,"Geschäft verlassen und Weg fortsetzen"
+136,270,"Wirt angreifen"
+136,296,"Wirtshaus verlassen"
+137,327,
+138,312,"Gegner war Affenmensch"
+138,283,"Gegner war jemand anderes"
+139,113,"Haus betreten"
+139,375,"Weg fortsetzen"
+140,71,"Riese besiegt"
+140,282,"im Kampf fliehen"
+141,68,"von Suppe kosten"
+141,375,"Weg fortsetzen"
+142,"bad",
+143,306,"behaupten, du hättest die Pest"
+143,157,"Wächter unbewaffnet angreifen"
+144,303,
+145,293,"Züchtungen ansehen"
+145,24,"Geschäft verlassen und Weg fortsetzen"
+146,220,"Passepartout dabei"
+146,388,"keinen Passepartout dabei"
+147,338,"Flüssigkeit trinken"
+147,105,"Weg fortsetzen"
+148,287,
+149,340,"nochmal versuchen, das Schloss zu öffnen"
+149,60,"Raum verlassen und Treppe hinaufsteigen"
+150,367,"Strafe bezahlen und aus der Stadt werfen lassen"
+150,73,"Trolle angreifen"
+151,351,"dem Mann 10 Goldstücke geben"
+151,29,"den Mann ignorieren"
+152,20,
+153,65,
+154,273,"goldenen Skorpion hochheben"
+154,13,"silbernen Skorpion hochheben"
+154,80,"Treppe hinaufsteigen"
+154,334,"Haus verlassen und Weg fortsetzen"
+155,171,
+156,201,"Tätowierung und alle Gegenstände dabei"
+156,299,"es fehlt etwas"
+157,54,
+158,122,"durch die Tür fliehen"
+158,207,"über die Wendeltreppe fliehen"
+159,278,"das Zimmer durchsuchen"
+159,107,"durch den Mauerbogen ins nächste Zimmer gehen"
+159,60,"die Treppe hinaufsteigen"
+160,211,"Pflaumen kaufen"
+160,242,"Äpfel kaufen"
+161,245,"Haus betreten"
+161,282,"Weg fortsetzen"
+162,7,"Glück"
+162,226,"kein Glück"
+163,231,
+164,112,
+165,139,"Kerzenziehergasse folgen"
+165,91,"Hafenstraße folgen"
+166,272,
+167,93,
+168,359,"Schlag trifft"
+168,266,"Schlag trifft nicht"
+169,46,"Kettenpanzer kaufen"
+169,115,"Stall verlassen"
+170,114,"Gegner besiegt"
+170,196,"im Kampf fliehen"
+171,399,"an Bord des Schiffes klettern"
+171,78,"Weg fortsetzen"
+172,333,
+173,206,"Goldstücke einsetzen und mitspielen"
+173,296,"Taverne verlassen"
+174,205,"auf die Straße klettern und Weg nach Osten fortsetzen"
+174,356,"Tunnel Richtung Nordern folgen*"
+175,204,"Stachel trifft den Kelch"
+175,373,"Stachel trifft deine Hand"
+176,271,"die andere Tür öffnen*"
+176,78,"Weg fortsetzen"
+177,51,
+178,264,"mit Menschenfresser reden"
+178,140,"Menschenfresser angreifen"
+178,282,"Haus verlassen und Weg fortsetzen"
+179,16,"Beutel öffnen"
+179,333,"Beutel liegenlassen und Weg fortsetzen"
+180,344,"sehen, wer in der Kutsche sitzt"
+180,34,"verstecken und warten, bis die Kutsche weg ist"
+181,159,"Schlüssel passt"
+182,279,"Geld reicht, Stirn tätowieren lassen"
+182,354,"Geld reicht nicht"
+183,366,"Tabak und Pfeife kaufen"
+183,167,"heilende Kräutermischung kaufen"
+183,93,"Laden verlassen und Weg fortsetzen"
+184,55,"goldene Blume dabei"
+184,308,"keine goldene Blume dabei"
+185,122,"Tür öffnen"
+185,207,"die Wendeltreppe hinaufsteigen"
+186,387,"Skorpionbrosche nehmen"
+186,334,"nur das Gold nehmen und Weg fortsetzen"
+187,260,"etwas zum bestechen dabei"
+187,341,"nichts zum bestechen dabei"
+188,253,"Schlagen angreifen"
+188,15,"fliehen"
+189,125,"Schild mit dem Turm nehmen"
+189,374,"Schild mit dem Einhorn nehmen"
+189,21,"die Wendeltreppe hinaufsteigen"
+190,38,"du verletzt dich nicht"
+190,296,"du verletzt dich"
+191,133,
+192,304,
+193,286,"Feuer-Ring dabei"
+193,163,"Mumie mit Schwert besiegt"
+194,161,
+195,61,"von Lord Azzur"
+195,268,"von Mrs. Pipe"
+195,53,"von Ben Borryman"
+196,148,
+197,301,"Rüstung genauer ansehen"
+197,122,"Tür öffnen"
+197,207,"in das nächste Stockwerk hinaufsteigen"
+198,296,
+199,222,
+200,394,"Zelt der Hellseherin betreten"
+200,117,"Weg fortsetzen"
+201,138,
+202,151,"zulassen, dass man dich fortschleppt"
+202,69,"Wächter angreifen"
+202,276,"versuchen, die Wächter zu bestechen"
+203,244,
+204,209,"Kelch B hochheben*"
+204,43,"Kelch C hochheben*"
+204,107,"durch den Mauerbogen ins nächste Zimmer gehen"
+204,60,"die Treppe hinaufsteigen"
+205,44,"dem Knick der Stallgasse folgen"
+205,127,"zur Kreuzung zurückkehren und Weg fortsetzen"
+206,296,
+207,314,
+208,317,
+209,175,"Kelch A hochheben*"
+209,43,"Kelch C hochheben*"
+209,107,"durch den Mauerbogen ins nächste Zimmer gehen"
+209,60,"die Treppe hinaufsteigen"
+210,"bad",
+211,307,
+212,74,
+213,248,"Silberschmied ansprechen"
+213,135,"Silberschmied angreifen"
+213,100,"Laden verlassen und Weg fortsetzen"
+214,158,"du kannst der Axt ausweichen"
+214,379,"die Axt trifft dich am Arm"
+215,315,"Skorpionbrosche kaufen"
+215,334,"Haus verlassen und Weg fortsetzen"
+216,72,"Jungen helfen"
+216,317,"lieber weitergehen"
+217,259,
+218,300,
+219,150,"als Gewürzhändler ausgeben"
+219,393,"nicht als Gewürzhändler ausgeben"
+220,100,
+221,396,
+222,370,"Anlage ansehen"
+222,133,"Weg fortsetzen"
+223,165,
+224,66,"fragen, ob der Zwerg Passepartouts verkauft"
+224,236,"fragen, ob der Zwerg weiß, wo Nicodemus wohnt"
+225,397,"alle drei Stadtstreicher besiegt"
+226,111,"alle drei Piraten besiegt"
+226,78,"im Kampf fliehen"
+227,362,"Stiefel anprobieren"
+227,103,"Weg fortsetzen"
+228,125,"Schild mit dem Turm nehmen"
+228,374,"Schild mit dem Einhorn nehmen"
+228,21,"die Wendeltreppe hinaufsteigen"
+229,23,"das Ei fliegt vorbei"
+229,343,"das Ei trifft dich"
+230,54,
+231,96,"die schwarze Tür öffnen"
+231,197,"die Treppe hinaufsteigen"
+232,12,"hinter der Tür verstecken und warten"
+232,383,"Tür wieder schließen"
+233,247,
+234,96,
+235,65,
+236,57,"behaupten, du möchtest Nicodemus um Hilfe bitten"
+236,218,"behaupten, du möchtest Nicodemus töten"
+237,133,
+238,27,"Tor öffnen"
+238,139,"Weg fortsetzen"
+239,201,"Tätowierung und alle Gegenstände dabei"
+239,299,"es fehlt etwas"
+240,36,"nach dem Preis für die Ringe erkundigen"
+240,196,"Laden verlassen und Weg fortsetzen"
+241,63,"Zauberkerzen ansehen"
+241,280,"Geschäft verlassen und Weg fortsetzen"
+242,307,
+243,304,
+244,9,"Hexenhaar und schwarze Perlen"
+244,129,"schwarze Perlen und Lotosblüte"
+244,337,"Lotosblüte und Hexenhaar"
+245,178,"nachsehen, woher das Murmeln kommt"
+245,282,"Haus verlassen"
+246,98,"Heiltrank kaufen"
+246,363,"Weg fortsetzen"
+247,384,"du kannst dem Schlag ausweichen"
+247,134,"der Schlag trifft dich und du verlierst das Bewusstsein"
+248,85,"Silberpfeil kaufen"
+248,42,"keinen Silberpfeil kaufen"
+249,295,
+250,183,"nach Kräutern erkundigen"
+250,342,"nach Nicodemus fragen"
+250,5,"den Ork-Menschen angreifen"
+251,269,"der Pfeil bleibt vor dir im Boden stecken"
+251,330,"der Pfeil bohrt sich in deine Schulter"
+252,275,"du kannst dich gerade noch zur Seite rollen"
+252,155,"ein Pferd trampelt über dich hinweg"
+253,75,
+254,310,
+255,227,
+256,320,"mit den Frauen reden"
+256,369,"weitergehen"
+257,385,"Ring des Goldenen Auges dabei"
+257,70,"Ring des Goldenen Auges nicht dabei"
+258,318,"elfenbeinernen Totenschädel dabei"
+258,47,"elfenbeinernen Totenschädel nicht dabei"
+259,228,"Passepartout dabei"
+259,4,"klingeln"
+259,365,"versuchen, die Tür einzurennen"
+260,222,
+261,74,
+262,375,
+263,153,"goldene Eule dabei"
+263,281,"goldene Eule nicht dabei"
+264,121,"Menschenfresser etwas zu essen geben"
+264,357,"Menschenfresser nichts zu essen geben"
+265,82,"Trank zum Gedankenlesen dabei"
+265,390,"Trank zum Gedankenlesen nicht dabei"
+266,91,
+267,74,
+268,32,"versuchen, zu fliehen"
+268,249,"Schlangenkönigin angreifen"
+269,30,
+270,26,"Troll besiegt"
+271,162,"versuchen, den Lederbeutel abzuschneiden"
+271,284,"Kajüte verlassen"
+272,377,"versuchen, das Gitter zu entfernen"
+272,174,"zum Einstiegsschacht zurückkehren"
+273,13,"silbernen Skorpion hochheben*"
+273,80,"Stufen hinaufsteigen"
+273,334,"Haus verlassen und Weg fortsetzen"
+274,222,
+275,171,
+276,109,"5 Goldstücke"
+276,267,"10 Goldstücke"
+276,41,"15 Goldstücke"
+277,207,
+278,175,"Kelch A hochheben"
+278,209,"Kelch B hochheben"
+278,43,"Kelch C hochheben"
+278,107,"durch den Mauerbogen ins nächste Zimmer gehen"
+278,60,"die Treppe hinaufsteigen"
+279,307,"Tätowierung"
+280,213,"Werkstatt des Silberschmieds betreten"
+280,100,"Weg fortsetzen"
+281,391,"tastend in den Raum hineinwagen"
+281,65,"die Wendeltreppe hinaufsteigen"
+282,119,"Jungen auf dem Faß ansprechen"
+282,247,"Weg fortsetzen"
+283,217,
+284,232,"die andere Tür öffnen*"
+284,78,"das Schiff verlassen"
+285,227,
+286,163,"Mumie geht in Flammen auf"
+287,3,"Lyraspieler zuhören"
+287,398,"Weg fortsetzen"
+288,"bad",
+289,5,"Ork-Menschen angreifen"
+289,93,"Weg fortsetzen"
+290,219,"Kaufmannspass dabei"
+290,335,"keinen Kaufmannspass dabei"
+291,74,"die Lanze verfehlt dich"
+291,10,"die Lanze durchbohrt deinen Arm"
+292,254,"Knoblauch dabei"
+292,210,"keinen Knoblauch dabei"
+293,24,
+294,386,"Wache angreifen"
+294,78,"Weg fortsetzen"
+295,333,
+296,147,
+297,207,
+298,75,
+299,"bad",
+300,347,"Aufforderung befolgen"
+300,137,"einfach weitergehen"
+301,214,"Kampfaxt nehmen"
+301,185,"Rüstung umstoßen"
+302,240,"Angebot annehmen"
+302,345,"handeln"
+303,104,
+304,148,
+305,189,"Silberpfeil abschießen"
+305,382,"Eis-Ring schleudern"
+306,74,
+307,290,"an Trollen vorbeigehen"
+307,11,"auf Baum klettern, um über die Mauer zu gelangen"
+308,180,
+309,97,"Wolf besiegt"
+310,263,"Tür öffnen"
+310,65,"weiter hinaufsteigen"
+311,74,"alle drei Torhüter besiegt"
+312,217,
+313,304,
+314,234,"fragen, wo sich Zanbar Bone aufhält"
+314,94,"fragen, ob er deine Wunden heilen kann"
+315,8,"Glück kaufen"
+315,132,"Gesundheit kaufen"
+316,279,
+317,241,"Laden des Kerzenziehers betreten"
+317,280,"Weg fortsetzen"
+318,304,"der fette Mann kann dir nichts anhaben"
+319,352,"versuchen, den Sarkophag zu öffnen"
+319,231,"den Raum verlassen"
+320,216,"Tipp: es soll Hexen in den Abwasserkanälen geben"
+321,356,"dem Tunnel Richtung Norden folgen"
+321,118,"dem Tunnel Richtung Süden folgen"
+322,93,
+323,395,"Schmied besiegt"
+324,89,"Handschuh anprobieren"
+324,282,"nur die Gemmen und das Gold einstecken"
+325,348,"deine Wunden werden versorgt"
+326,184,"beide Hunde besiegt"
+326,180,"im Kampf fliehen"
+327,126,"zum Mädchen ins Haus laufen"
+327,164,"Weg fortsetzen"
+328,333,
+329,91,"nach Westen in die Hafenstraße einbiegen"
+329,238,"nach Osten in die Kerzenziehergasse einbiegen"
+330,30,
+331,86,"Verrückter besiegt"
+332,124,"Bettler bedankt sich"
+333,76,
+334,255,"Kaufmannspass dabei"
+334,99,"kein Kaufmannspass dabei"
+335,367,"Strafe bezahlen und aus der Stadt werfen lassen"
+335,73,"Trolle angreifen"
+336,36,"fragen, was die Ringe kosten"
+336,302,"Gemmen zum Verkauf anbieten*"
+336,170,"Juwelier angreifen"
+337,400,"Zanbar Bone besiegt"
+338,105,
+339,228,"die Tür schließen und zu Bett gehen"
+339,77,"den Turm auskundschaften"
+340,60,"die Treppe ins Obergeschoss hinaufsteigen"
+340,304,"Haus verlassen und Weg fortsetzen"
+341,222,
+342,289,"dem Ork ein Goldstück geben"
+342,93,"Geschäft verlassen und Weg fortsetzen"
+343,100,"alle Silbergegenstände geklaut"
+344,58,"zur Seite treten"
+344,252,"stehenbleiben"
+345,240,"Juwelier beruhigen und Angebot annehmen"
+345,196,"Geschäft verlassen und Weg fortsetzen"
+345,170,"Juwelier angreifen"
+346,"bad",
+347,112,
+348,251,"zu Leuten hinaufrufen"
+348,30,"unter Brücke durchgehen und Weg fortsetzen"
+349,258,"Feuerteufel besiegt"
+349,192,"im Kampf fliehen und aus dem Fenster springen"
+350,32,"fliehen"
+350,249,"Schlangenkönigin angreifen"
+351,54,"beide Wächter besiegt"
+352,193,"mit Mumie kämpfen"
+352,106,"Laterne auf Mumie werfen"
+353,181,"eisernen Schlüssel dabei"
+353,389,"versuchen, die Tür mit Gewalt aufzubrechen"
+353,304,"auf die Straße zurückkehren und Weg fortsetzen"
+354,316,"genügend Geld zusammenbekommen"
+354,307,"nicht genügend Geld zusammenbekommen"
+355,74,"Wächter besiegt"
+356,28,"alle drei Riesenratten besiegt"
+357,71,"Menschenfresser besiegt"
+357,282,"nach der dritten Runde fliehen"
+358,346,"von der Mauer springen"
+358,108,"am Seil hinunterklettern*"
+358,56,"dich den Wachen stellen"
+359,91,
+360,123,"das Geschäft näher untersuchen"
+360,300,"Weg fortsetzen"
+361,297,"beide Zombies besiegt"
+362,103,"die Stiefel erhöhen deine Gewandtheit"
+363,48,"Kanaldeckel hochheben"
+363,205,"Weg fortsetzen"
+364,329,
+365,339,"behaupten, du seiest ein Reisender, der sich verirrt hat"
+365,35,"Butler angreifen"
+366,101,"zum Kräuterhändler zurückgehen und beschweren"
+366,93,"Weg fortsetzen"
+367,201,"Tätowierung und alle Gegenstände dabei"
+367,299,"es fehlt etwas"
+368,117,
+369,216,
+370,14,"Lotosblüte trotz Verbot pflücken"
+370,133,"Weg fortsetzen"
+371,83,"Heilmischung benutzen"
+371,322,"Suche fortsetzen"
+372,131,"Haus mit Schlangenkopf betreten"
+372,333,"Weg fortsetzen"
+373,209,"Kelch B hochheben*"
+373,43,"Kelch C hochheben*"
+373,107,"durch den Mauerbogen ins nächste Zimmer gehen"
+373,60,"die Treppe hinaufsteigen"
+374,21,
+375,40,"über die Mauer klettern"
+375,91,"zur Kreuzung zurückkehren und Weg fortsetzen"
+376,161,"Helm passt, bringt Kraft und Glück"
+377,92,"Hand in das dunkle Loch stecken"
+377,174,"zum Einstiegsschacht zurückkehren"
+378,52,"Kanonenkugel-Spiel"
+379,122,"Tür öffnen"
+379,207,"die Wendeltreppe hinauffliehen"
+380,375,"die Suppe stärkt dich"
+381,74,"einfach in die Stadt gehen"
+381,261,"Rat des Torhüters hören"
+382,189,"Silberpfeil abschießen"
+382,305,"Spiegel entgegenhalten"
+383,271,"die andere Tür öffnen*"
+383,78,"Schiff verlassen und Weg fortsetzen"
+384,221,"Verfolgung aufnehmen"
+384,396,"Weg fortsetzen"
+385,203,"alle drei Skelette besiegt"
+386,20,"Pirat besiegt"
+387,334,"die Brosche behindert dich im Kampf"
+388,100,"die Eisenstäbe geben nicht nach"
+389,159,"die Tür öffnet sich"
+389,304,"die Tür bleibt fest verschlossen"
+390,144,"du triffst die Hexe mit dem Schwert"
+390,59,"du verfehlst die Hexe"
+391,235,"der Pfeil schießt über deinen Kopf hinweg"
+391,142,"der Pfeil bohrt sich in deine Brust"
+392,186,"Feuerechse besiegt"
+392,334,"im Kampf fliehen"
+393,156,"dich aus der Stadt werfen lassen"
+393,73,"Trolle angreifen"
+394,368,"Wahrsagerin bezahlen"
+394,117,"Weg fortsetzen"
+395,115,"Schmied war ein ehrlicher Mann, du verlierst Glück"
+396,145,"Blumengeschäft betreten"
+396,24,"Weg fortsetzen"
+397,372,
+398,378,"Kanonenkugel-Spiel spielen"
+398,52,"Weg fortsetzen"
+399,87,"über die Strickleiter an Bord klettern"
+399,294,"über die Gangway das Schiff betreten"
+400,"good",

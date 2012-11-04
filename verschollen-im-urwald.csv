@@ -1,0 +1,117 @@
+7,8,
+8,12,
+9,13,
+10,15,
+12,9,
+13,10,mit Führer im Einbaum-Kanu fahren
+13,52,Flugzeug mieten
+13,99,auf Flusspatrouille warten
+15,20,
+16,bad,
+17,21,
+18,17,um Hilfe bitten
+18,39,"Owaduga bitten, für dich zu sprechen"
+20,18,weiterfahren
+20,16,Lager aufschlagen
+21,22,nicht helfen
+21,24,helfen
+22,bad,
+24,28,
+25,35,zum Fluss zurückgehen
+25,36,dem Klang der Flöte folgen
+27,34,
+28,27,mitgehen
+28,33,der Flötenmusik folgen
+29,good,
+30,good,
+33,25,
+34,30,Tempel betreten
+34,38,zögern
+35,good,
+36,29,
+38,bad,
+39,41,
+40,good,
+41,45,auf Medizinmann warten
+41,44,weggehen
+42,40,um Hilfe bitten
+42,49,Blick abwenden
+44,51,
+45,42,
+46,good,
+48,bad,
+49,?,
+51,48,am Fuße des Berges weitergehen
+51,46,Berg hinaufsteigen
+52,56,
+53,59,
+54,55,
+55,63,auf Portilho warten
+55,72,mit Mendoza auf die Suche begeben
+56,53,zur “Black Cat Bar” gehen
+56,76,am Flughafen auf den Piloten warten
+59,67,
+60,64,den Angestellten rufen
+60,61,"vorgeben, mit Mendoza zu gehen"
+61,66,"sagen, dass es dir gutgeht"
+61,68,"sagen, dass du von einem Messer gestreift wurdest"
+63,60,
+64,bad,
+66,bad,
+67,54,zum Flughafen zurückkehren
+67,15,Owaduga folgen
+68,116,"sagen, dass du sofort in den Dschungel aufbrechen willst"
+68,71,erst etwas ausruhen
+70,?,
+71,good,
+72,77,
+74,85,Owaduga nachlaufen
+74,80,zum Flugzeug zurückgehen
+75,bad,
+76,78,
+77,70,in die Stadt gehen
+77,75,mit Mendoza auf zurückfliegen
+78,74,
+80,81,nach Owaduga suchen
+80,87,mit Portilho mitgehen
+81,82,
+82,86,
+85,bad,
+86,89,Owadugas Anweisungen folgen
+86,115,bei Portilho bleiben
+87,88,
+88,92,
+89,good,
+90,91,
+91,96,Kopfschmuck annehmen
+91,94,Kopfschmuck ablehnen
+92,90,
+94,bad,
+95,117,
+96,104,
+97,101,
+98,bad,
+99,102,
+101,good,
+102,106,"aussteigen, wo deine Freunde zuletzt gesehen wurden"
+102,111,noch einige Stunden flussaufwärts fahren
+103,bad,
+104,97,das runde Gebäude untersuchen
+104,98,"nachsehen, ob deine Freunde wirklich im Langhaus sind"
+105,95,"bleiben und hoffen, dass sich alle bald wieder erholt haben"
+105,109,zum Boot zurückgehen und Hilfe holen
+105,112,selbst zum Dorf gehen
+106,107,
+107,103,nicht weitergehen
+107,105,gleich weitegehen
+109,bad,
+110,bad,
+111,113,
+112,114,
+113,118,weglaufen
+113,110,bleiben
+114,good,
+115,bad,
+116,good,
+117,bad,
+118,good,
